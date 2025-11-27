@@ -5,7 +5,7 @@
   "devDependencies": {
     "now": "^15.6.0",
     "now-serve": "^0.3.1",
-    "react-scripts": "^3.0.1"
+    "react-scripts": "^5.0.1"
   },
   "dependencies": {
     "install": "^0.12.2",
